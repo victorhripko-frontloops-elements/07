@@ -1,21 +1,3 @@
-# Template for FrontLoops [Elements] challenge
+# Show on scroll
 
-Install all dependencies
-```bash
-npm i
-```
-
-For start watching all files use:
-```bash
-npm run start
-```
-
-then open in browser
-```bash
-http://localhost:1234/
-```
-
-For build all files use:
-```bash
-npm run build
-```
+Write a script that tracks whenever elements appears on the screen and makes them visible then
